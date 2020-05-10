@@ -4,7 +4,7 @@
 
 - 数组(Array)
 - 栈(Stack)
-- 队列(Quene)
+- 队列(Queue)
 - 链表(LinkedList)
 - 二叉树(Binary Tree)
 - 图(Graph)
@@ -23,3 +23,8 @@
 - 常见字符串处理
 - 使用递归
 - leetcode 经典问题求解
+
+
+## 可视化工具
+
+- [visualgo](https://visualgo.net/zh)
