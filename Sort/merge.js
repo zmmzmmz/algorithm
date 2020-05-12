@@ -31,3 +31,8 @@ function merge(left, right) {
   }
   return res
 }
+
+// 非递归版
+function mergeSort2(arr) {
+
+}
